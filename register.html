@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Create Account</title>
+    <link rel="stylesheet" href="register.css">
+    <script src="https://kit.fontawesome.com/ba55640131.js" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="register">
+ <div class="logo">
+ <h1 style="color:midnightblue;font-weight:800;margin-left:20px">AWESOME RESUME</h1>
+ </div>
+<div class="form-box">
+    <div class="button-box">
+        <div id="btn"></div>
+        <button type="button" class="toggle-btn">New User</button>
+        <form class="input-group">
+            <input type="text" class="input-field" placeholder="Name" required>
+            <input type="email" class="input-field" placeholder="Email-Id" required>
+            <input type="tel" class="input-field" placeholder="Mobile Number">
+            <input type="password" class="input-field" placeholder="Create Password" required>
+            <input type="password" class="input-field" placeholder="Confirm Password" required>
+            <input type="checkbox" class="check-box" class="check-box"id="check" onclick="enable()"><span>I agree with terms and conditions</span>
+            <button type="submit" class="submit-btn"id="sub" disabled="true">Register</button>
+        </form>
+    </div>
+</div>
+</div>
+</div>
+<script>
+    function enable(){
+        var check=document.getElementById("check");
+        var sub=document.getElementById("sub");
+        if(check.checked){
+            sub.removeAttribute("disabled");
+        }
+        else{
+            sub.disabled="true";
+        }
+    }
+</script>
+</body>
+</html>
