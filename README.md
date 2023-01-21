@@ -1,5 +1,6 @@
-Awesome Builder
-It is a free to use and simple resume builder
+AWESOME RESUME BUILDER
+
+It is a free to use and simple resume builder.
 A user needs to sign in to desgign their own resume.
 User can choose from multiple templates
 User can add and edit information easily
@@ -9,16 +10,20 @@ Most of resume builders available online are paid
 Awesome Builder is
 - free to use
 - user friendly
+- It shows real-time changes in your resume as you input data.
+
 
 How to use Awesome Builder?
 Visit our site --
-sign up with email or google 
+sign up with email 
 click on the create my resume button
 Choose a template and fill the details
-Download your resume in pdf, docx or html format
+You can also see real-time changes in your resume.
+Download your resume in pdf, docx or html format based on your requirements.
+
 
 For any queries 
-email at ky954075@gmail.com
+Email at ky954075@gmail.com
 
 
 Our Team
