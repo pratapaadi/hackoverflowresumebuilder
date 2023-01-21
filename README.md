@@ -1,7 +1,7 @@
 AWESOME RESUME BUILDER
 
 It is a free to use and simple resume builder.
-A user needs to sign in to desgign their own resume.
+A user needs to sign in to design their own resume.
 User can choose from multiple templates
 User can add and edit information easily
 
